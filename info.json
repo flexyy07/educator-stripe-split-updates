@@ -1,0 +1,6 @@
+{
+  "version": "2.4.2",
+  "package": "https://raw.githubusercontent.com/flexyy07/educator-stripe-split-updates/main/packages/educator-stripe-split-2.4.2.zip",
+  "notes": "Fixed \"Download failed. Unauthorized\" when updating from the Plugins screen. Clearer key messages in Settings.",
+  "published": "2026-09-28T12:10:40Z"
+}
