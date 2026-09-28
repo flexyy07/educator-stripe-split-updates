@@ -1,6 +1,6 @@
 {
-  "version": "2.4.3",
-  "package": "https://raw.githubusercontent.com/flexyy07/educator-stripe-split-updates/main/packages/educator-stripe-split-2.4.3.zip",
-  "notes": "Confirms one-click updates from the Plugins screen. No other changes.",
-  "published": "2026-09-28T12:18:45Z"
+  "version": "2.4.4",
+  "package": "https://raw.githubusercontent.com/flexyy07/educator-stripe-split-updates/main/packages/educator-stripe-split-2.4.4.zip",
+  "notes": "\"View details\" now shows the full description, installation steps, FAQ and changelog.",
+  "published": "2026-09-28T12:22:07Z"
 }
