@@ -4,7 +4,7 @@ Tags: stripe connect, split payments, instructors, learndash, woocommerce
 Requires at least: 6.5
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 2.4.5
+Stable tag: 2.4.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -86,6 +86,9 @@ This plugin connects to **Stripe** (api.stripe.com) to do its job:
 4. Educator dashboard with earnings and Connect Stripe.
 
 == Changelog ==
+
+= 2.4.6 =
+* Code review fixes: all database queries use prepared identifiers, stricter input sanitizing and output escaping.
 
 = 2.4.5 =
 * No more "not tested with your version of WordPress" warning on WordPress 7.1.x.
