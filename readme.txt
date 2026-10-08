@@ -4,7 +4,7 @@ Tags: stripe connect, split payments, vendors, learndash, woocommerce
 Requires at least: 6.5
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 2.5.0
+Stable tag: 2.5.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -86,6 +86,9 @@ This plugin connects to **Stripe** (api.stripe.com) to do its job:
 4. Vendor dashboard with earnings and Connect Stripe.
 
 == Changelog ==
+
+= 2.5.1 =
+* More reliable updates.
 
 = 2.5.0 =
 * Renamed to Vendors Payment Split; "educator" is now "vendor" throughout. The dashboard shortcode is [edss_vendor_dashboard] (the old one still works) and webhooks carry `vendor` fields next to the old ones.
