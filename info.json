@@ -1,6 +1,6 @@
 {
-  "version": "2.4.6",
-  "package": "https://raw.githubusercontent.com/flexyy07/educator-stripe-split-updates/main/packages/educator-stripe-split-2.4.6.zip",
-  "notes": "Fixes co-educator payouts staying on \"Processing\". Code review fixes: prepared database queries, stricter input sanitizing and output escaping.",
-  "published": "2026-10-02T12:14:42Z"
+  "version": "2.5.0",
+  "package": "https://raw.githubusercontent.com/flexyy07/educator-stripe-split-updates/main/packages/educator-stripe-split-2.5.0.zip",
+  "notes": "Renamed to Vendors Payment Split by PayoutWorks. \"Educator\" is now \"Vendor\" on every screen. Your data, settings and existing dashboard page keep working.",
+  "published": "2026-10-08T12:56:05Z"
 }
